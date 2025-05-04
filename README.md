@@ -4,7 +4,7 @@
 
 Hi, I'm Edward Nana Dwemoh — a builder at heart and a visual thinker by nature. I’m on a mission to craft meaningful digital experiences that look beautiful and feel intuitive. My journey began with graphic design and digital art, and now I’m bringing that creative energy into front-end web development. Through the ALX SE Program, I’m growing daily in HTML, CSS, JavaScript, and modern frameworks like React. What drives me? Simplicity. Clarity. Purpose. Whether it's a clean UI, an engaging user flow, or a responsive app, I believe good design should always speak for itself.
 
-## My Visiom 🚀
+## My Vision 🚀
 
 I see myself building thoughtful digital experiences that blend design, code, and community—bringing ideas to life with precision and purpose. That’s why I’m particularly drawn to:
 
